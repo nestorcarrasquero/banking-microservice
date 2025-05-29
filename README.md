@@ -5,7 +5,7 @@
 #### Instrucciones de instalacion
 
 1. Unico requisito: Tener instalado node
-2. El repositorio esta ubicado en: xyz. Se puede descargar con el comando de GIT: git clone xyz. Luego en la carpeta raiz del proyecto, se debe ejecutar el comando: pnpm install, con lo cual se instalaran las dependencias necesarias para levantar el proyecto
+2. El repositorio esta ubicado en: [repo](https://github.com/nestorcarrasquero/banking-microservice.git). Se puede descargar con el comando de GIT: git clone [repo](https://github.com/nestorcarrasquero/banking-microservice.git). Luego en la carpeta raiz del proyecto, se debe ejecutar el comando: pnpm install, con lo cual se instalaran las dependencias necesarias para levantar el proyecto
 3. Para levantar el servicio, ejecutamos el comando: pnpm run dev
 
 | ENDPOINT | DESCRIPCION | METODO |
